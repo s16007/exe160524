@@ -1,0 +1,10 @@
+[11541.646309] perf interrupt took too long (5016 > 5000), lowering kernel.perf_event_max_sample_rate to 25000
+[14051.892505] usb 1-2: new low-speed USB device number 5 using xhci_hcd
+[14052.024635] usb 1-2: New USB device found, idVendor=2166, idProduct=6649
+[14052.024646] usb 1-2: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+[14052.024651] usb 1-2: Product:  USB OPTICAL MOUSE
+[14052.026043] usb 1-2: ep 0x81 - rounding interval to 64 microframes, ep desc says 80 microframes
+[14052.107161] usbcore: registered new interface driver usbhid
+[14052.107168] usbhid: USB HID core driver
+[14052.123961] input:  USB OPTICAL MOUSE as /devices/pci0000:00/0000:00:14.0/usb1/1-2/1-2:1.0/0003:2166:6649.0002/input/input12
+[14052.182480] hid-generic 0003:2166:6649.0002: input,hidraw1: USB HID v1.11 Mouse [ USB OPTICAL MOUSE] on usb-0000:00:14.0-2/input0
